@@ -1,0 +1,58 @@
+body{
+    font-family: arial;
+    background: rgb(236, 236, 236);
+}
+
+header h1{
+    color: rgb(0, 54, 108);
+    font-size: 40px;
+    width: 800px;
+    margin-left: 211px;
+    margin-bottom: 23 px;
+
+}
+
+
+
+main{
+    width: 900px;
+    margin: 0 auto;
+    border-bottom: 1px solid rgb(0, 0, 0);
+   
+
+}
+
+small{
+    font-size: 14 px;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+}
+
+.destaque{
+    width: 600px;
+    height: 400px;
+   margin-top: 13px;
+   margin-bottom: 13px;
+    border-radius: 160px;
+}
+
+
+
+ul.redes-sociais li{
+    display: inline-block;
+    
+}
+
+ul.redes-sociais li a img{
+    
+    margin-top: 12px;
+    width: 70px;
+    margin: 10px;
+}
+
+.DH{
+   
+    width: 80px;
+    height: 80px;
+}
+
